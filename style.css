@@ -1,0 +1,28 @@
+.wrapper {
+    width: 1440px;
+    height: 900px;
+    text-align: center;
+    padding-top: 100px;
+}
+
+
+
+.logo {
+    width: 272px;
+    height: 92px;
+
+}
+.search {
+    width: 400px;
+    height: 25px;
+    border-radius: 5px;
+    border: 3px solid red;
+    padding: 10px;
+}
+.button {
+    height: 50px;
+    width: 90px;
+    background-color: #34b034;
+    border-radius: 5px;
+    border: 3px solid #34b034;
+}
